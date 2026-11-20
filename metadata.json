@@ -1,0 +1,8 @@
+{
+  "name": "Remix BAUST Club Management System",
+  "description": "University club directory, student membership registry, application review workflow, and relational database explorer for Bangladesh Army University of Science and Technology (BAUST).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
